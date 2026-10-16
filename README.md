@@ -1,5 +1,5 @@
-
 ##  $${\color{blue} C++ \space RAW-Socket \space IDS \space & \space Packet  \space Sniffer: \sapce Devlopment \space Reoadmap}$$
+# $${\color{blue}VLAN \space Configuration \space Labs \space using \space Cisco \space Packet \space Tracer}$$
 
 **Suggested timeline:** about 11 weeks at 8-10 hours/week each. Compress it if your deadline is tighter.
 
